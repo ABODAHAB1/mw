@@ -1,0 +1,695 @@
+[21-Nov-26 13:44:07 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 13:44:07 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 13:44:07 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 13:44:07 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 13:44:07 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 13:44:09 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 13:44:15 - ERROR] - SrcMusicKERO.core.bot - Bot has failed to access the log group/channel.
+  Reason : ValueError.
+[21-Nov-26 13:49:32 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 13:49:32 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 13:49:32 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 13:49:32 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 13:49:32 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 13:49:34 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 13:49:41 - ERROR] - SrcMusicKERO.core.bot - Bot has failed to access the log group/channel.
+  Reason : ValueError.
+[21-Nov-26 13:51:36 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 13:51:36 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 13:51:36 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 13:51:36 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 13:51:36 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 13:51:38 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 13:51:44 - ERROR] - SrcMusicKERO.core.bot - Bot has failed to access the log group/channel.
+  Reason : ValueError.
+[21-Nov-26 13:53:27 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 13:53:27 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 13:53:27 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 13:53:27 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 13:53:27 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 13:53:30 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 13:53:35 - ERROR] - SrcMusicKERO.core.bot - » قم باضافة البـوت مشـرفـاً بكافة الصلاحيات في مجموعـة السجـل
+[21-Nov-26 14:00:37 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 14:00:37 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 14:00:37 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 14:00:37 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 14:00:37 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 14:00:39 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 14:00:44 - ERROR] - SrcMusicKERO.core.bot - Bot has failed to access the log group/channel.
+  Reason : ValueError.
+[21-Nov-26 14:20:02 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 14:20:02 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 14:20:02 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 14:20:02 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 14:20:02 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 14:20:04 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 14:20:10 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 14:24:09 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 14:24:09 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 14:24:09 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 14:24:09 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 14:24:09 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 14:24:11 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 14:24:18 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 14:24:18 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 14:24:18 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 14:24:19 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 14:24:19 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 14:43:50 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 14:43:50 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 14:43:50 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 14:43:50 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 14:43:50 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 14:43:53 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 14:43:59 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 14:43:59 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 14:43:59 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 14:44:00 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 14:44:00 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 14:46:00 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 14:46:00 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 14:46:00 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 14:46:00 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 14:46:00 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 14:46:02 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 14:46:09 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 14:46:09 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 14:46:09 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 14:46:10 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 14:46:10 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 14:46:15 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 14:47:48 - ERROR] - pyrogram.dispatcher - module 'config' has no attribute 'LOG_GROUP_ID'
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/ownerr.py", line 69, in khfzss
+    return await app.send_message(config.LOG_GROUP_ID, f"الواد {message.from_user.mention} دا بينادي عليك \n\n الايدي بتاعه : {sender_id} \n\n اسمه : {sender_name}")
+                                  ^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'LOG_GROUP_ID'
+[21-Nov-26 14:47:49 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-143' coro=<delete_temp_files() done, defined at /home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/AutoClean.py:9> exception=PermissionError(13, 'Permission denied')>
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/AutoClean.py", line 22, in delete_temp_files
+    os.remove(os.path.join(cache, file))
+PermissionError: [Errno 13] Permission denied: '/boot'
+[21-Nov-26 14:47:57 - ERROR] - pyrogram.dispatcher - 'S_B_9'
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/utils/decorators/play.py", line 61, in wrapper
+    buttons = botplaylist_markup(_)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/utils/inline/extras.py", line 8, in botplaylist_markup
+    InlineKeyboardButton(text=_["S_B_9"], url=SUPPORT_CHAT),
+                              ~^^^^^^^^^
+KeyError: 'S_B_9'
+[21-Nov-26 14:49:01 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: U_H_D8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'u_h_d8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: u_h_d8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/Source.py", line 54, in yas
+    usr = await client.get_chat("U_H_D8")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/chats/get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameNotOccupied: Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+[21-Nov-26 14:52:24 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetParticipants")
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/المالك.py", line 33, in ownner
+    async for m in app.get_chat_members(message.chat.id, filter=enums.ChatMembersFilter.ADMINISTRATORS):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/chats/get_chat_members.py", line 138, in get_chat_members
+    members = await get_chunk(
+              ^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/chats/get_chat_members.py", line 42, in get_chunk
+    r = await client.invoke(
+        ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetParticipants")
+[21-Nov-26 14:52:27 - ERROR] - pyrogram.dispatcher - module 'config' has no attribute 'LOG_GROUP_ID'
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/ownerr.py", line 69, in khfzss
+    return await app.send_message(config.LOG_GROUP_ID, f"الواد {message.from_user.mention} دا بينادي عليك \n\n الايدي بتاعه : {sender_id} \n\n اسمه : {sender_name}")
+                                  ^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'LOG_GROUP_ID'
+[21-Nov-26 14:58:21 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'status'
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/man3tasfya.py", line 21, in welcome
+    if chat_member_updated.new_chat_member.status == ChatMemberStatus.BANNED:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'status'
+[21-Nov-26 15:00:14 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Nov-26 15:00:15 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 15:00:15 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 15:00:16 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 15:00:16 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 15:00:16 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 15:00:16 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 15:00:16 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 15:00:18 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 15:00:25 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 15:00:25 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 15:00:25 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 15:00:26 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 15:00:26 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 15:00:31 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 15:01:26 - ERROR] - pyrogram.dispatcher - 'S_B_9'
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/utils/decorators/play.py", line 61, in wrapper
+    buttons = botplaylist_markup(_)
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/utils/inline/extras.py", line 8, in botplaylist_markup
+    InlineKeyboardButton(text=_["S_B_9"], url=SUPPORT_CHAT),
+                              ~^^^^^^^^^
+KeyError: 'S_B_9'
+[21-Nov-26 15:02:05 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-143' coro=<delete_temp_files() done, defined at /home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/AutoClean.py:9> exception=PermissionError(13, 'Permission denied')>
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/AutoClean.py", line 22, in delete_temp_files
+    os.remove(os.path.join(cache, file))
+PermissionError: [Errno 13] Permission denied: '/boot'
+[21-Nov-26 15:13:23 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Nov-26 15:13:24 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 15:13:24 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 15:15:21 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 15:15:21 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 15:15:21 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 15:15:21 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 15:15:21 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 15:15:23 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 15:15:30 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 15:15:30 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 15:15:30 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 15:15:31 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 15:15:31 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 15:15:36 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 15:17:02 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Nov-26 15:17:02 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 15:17:02 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 15:17:04 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 15:17:04 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 15:17:04 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 15:17:04 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 15:17:04 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 15:17:06 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 15:17:12 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 15:17:12 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 15:17:12 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 15:17:13 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 15:17:13 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 15:17:17 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 15:18:52 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-143' coro=<delete_temp_files() done, defined at /home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/AutoClean.py:9> exception=PermissionError(13, 'Permission denied')>
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/AutoClean.py", line 22, in delete_temp_files
+    os.remove(os.path.join(cache, file))
+PermissionError: [Errno 13] Permission denied: '/boot'
+[21-Nov-26 15:26:37 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'status'
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/man3tasfya.py", line 21, in welcome
+    if chat_member_updated.new_chat_member.status == ChatMemberStatus.BANNED:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'status'
+[21-Nov-26 15:29:31 - ERROR] - pyrogram.dispatcher - module 'config' has no attribute 'LOG_GROUP_ID'
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/ownerr.py", line 69, in khfzss
+    return await app.send_message(config.LOG_GROUP_ID, f"الواد {message.from_user.mention} دا بينادي عليك \n\n الايدي بتاعه : {sender_id} \n\n اسمه : {sender_name}")
+                                  ^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'LOG_GROUP_ID'
+[21-Nov-26 15:31:33 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Nov-26 15:31:33 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 15:31:33 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 15:33:08 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 15:33:08 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 15:33:08 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 15:33:08 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 15:33:08 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 15:33:10 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 15:33:15 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 15:33:16 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 15:33:16 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 15:33:17 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 15:33:17 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 15:33:21 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 16:10:58 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: U_H_D8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'u_h_d8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: u_h_d8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/Source.py", line 72, in yas
+    usr = await client.get_chat("U_H_D8")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/chats/get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameNotOccupied: Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+[21-Nov-26 16:11:02 - ERROR] - pyrogram.dispatcher - Peer id invalid: -1000000000000
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1000000000000'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/ownerr.py", line 69, in khfzss
+    return await app.send_message(config.LOG_GROUP_ID, f"الواد {message.from_user.mention} دا بينادي عليك \n\n الايدي بتاعه : {sender_id} \n\n اسمه : {sender_name}")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/messages/send_message.py", line 128, in send_message
+    peer=await self.resolve_peer(chat_id),
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 89, in resolve_peer
+    peer_type = utils.get_peer_type(peer_id)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/utils.py", line 246, in get_peer_type
+    raise ValueError(f"Peer id invalid: {peer_id}")
+ValueError: Peer id invalid: -1000000000000
+[21-Nov-26 16:46:46 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:46:46 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:46:46 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:46:46 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:46:46 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:48:10 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:48:10 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:48:10 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:48:10 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:48:10 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:48:31 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:48:31 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:48:31 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:48:31 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:48:31 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:48:43 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Nov-26 16:48:43 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 16:48:43 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 16:48:45 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:48:45 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:48:45 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:48:45 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:48:45 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:48:48 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 16:48:54 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 16:48:54 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 16:48:54 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 16:48:55 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 16:48:55 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 16:48:59 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 16:52:19 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:52:19 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:52:19 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:52:19 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:52:19 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:53:20 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:53:20 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:53:20 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:53:20 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:53:20 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:53:37 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Nov-26 16:53:37 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 16:53:37 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 16:53:39 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:53:39 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:53:39 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:53:39 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:53:39 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:53:42 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 16:53:47 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 16:53:47 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 16:53:47 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 16:53:48 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 16:53:48 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 16:53:55 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 16:54:54 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:54:54 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:54:54 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:54:54 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:54:54 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:56:50 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:56:50 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:56:50 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:56:50 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:56:50 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 16:58:01 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 16:58:01 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 16:58:01 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 16:58:01 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 16:58:01 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:19:24 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Nov-26 17:19:24 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 17:19:24 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 17:19:27 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:19:27 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:19:27 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:19:27 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:19:27 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:19:30 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 17:19:35 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 17:19:35 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 17:19:35 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 17:19:37 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 17:19:37 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 17:19:41 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 17:24:43 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:24:43 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:24:43 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:24:43 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:24:43 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:26:39 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:26:39 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:26:39 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:26:39 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:26:39 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:28:04 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:28:04 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:28:04 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:28:04 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:28:04 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:31:10 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:31:10 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:31:10 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:31:10 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:31:10 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:31:48 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:31:48 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:31:48 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:31:48 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:31:48 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:41:12 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:41:12 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:41:12 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:41:12 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:41:12 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:41:58 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:41:58 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:41:58 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:41:58 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:41:58 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:43:22 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:43:22 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:43:22 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:43:22 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:43:22 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:56:26 - INFO] - root - Stop signal received (SIGTERM). Exiting...
+[21-Nov-26 17:56:26 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 17:56:26 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 17:56:45 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:56:45 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:56:45 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:56:45 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:56:45 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 17:58:40 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 17:58:40 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 17:58:40 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 17:58:40 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 17:58:40 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 19:26:44 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 19:26:44 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 19:26:44 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 19:26:44 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 19:26:44 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 19:37:43 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 19:37:43 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 19:37:43 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 19:37:43 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 19:37:43 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 19:38:23 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 19:38:23 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 19:38:23 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 19:38:23 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 19:38:23 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 19:42:36 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 19:42:36 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 19:42:36 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 19:42:36 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 19:42:36 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 19:46:48 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 19:46:48 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 19:46:48 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 19:46:48 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 19:46:48 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 19:55:47 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 19:55:47 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 19:55:47 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 19:55:47 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 19:55:47 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 19:55:49 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 19:55:55 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 19:55:55 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 19:55:55 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 19:55:57 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 19:55:57 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 19:56:00 - INFO] - ميوزك اليــكس - خطأ .. قم بفتح المكالمة في مجموعة السجل الخاصه بك
+
+جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 19:57:08 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 19:57:08 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 19:57:08 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 19:57:08 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 19:57:08 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 19:57:10 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 19:57:15 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 19:57:16 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 19:57:16 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 19:57:17 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 19:57:17 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 19:57:21 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 20:02:32 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Nov-26 20:02:32 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 20:02:32 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 20:04:59 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 20:04:59 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 20:04:59 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 20:04:59 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 20:04:59 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 20:05:01 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 20:05:07 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 20:05:07 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 20:05:07 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 20:05:08 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 20:05:08 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 20:05:13 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 20:06:07 - ERROR] - pyrogram.dispatcher - name 'start_panel' is not defined
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/utils/decorators/language.py", line 54, in wrapper
+    return await mystic(_, message, language)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/bot/start.py", line 91, in start_gp
+    out = start_panel(_)
+          ^^^^^^^^^^^
+NameError: name 'start_panel' is not defined
+[21-Nov-26 20:07:01 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Nov-26 20:07:01 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 20:07:01 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 20:09:14 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 20:09:14 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 20:09:14 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 20:09:14 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 20:09:14 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 20:09:16 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 20:09:22 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 20:09:22 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 20:09:22 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 20:09:23 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 20:09:23 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 20:09:27 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 20:11:30 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Nov-26 20:11:30 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 20:11:30 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 20:13:57 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 20:13:57 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 20:13:57 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 20:13:57 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 20:13:57 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 20:13:59 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 20:14:05 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 20:14:05 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 20:14:05 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 20:14:06 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 20:14:06 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 20:14:11 - INFO] - ميوزك اليــكس - TmLotus
+[21-Nov-26 20:15:16 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: U_H_D8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'u_h_d8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: u_h_d8'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/ec2-user/ASK-project/SrcMusicKERO/plugins/play/Source.py", line 54, in yas
+    usr = await client.get_chat("U_H_D8")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/chats/get_chat.py", line 78, in get_chat
+    peer = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/ec2-user/ASK-project/.venv/lib64/python3.11/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameNotOccupied: Telegram says: [400 USERNAME_NOT_OCCUPIED] - The username is not occupied by anyone (caused by "contacts.ResolveUsername")
+[21-Nov-26 20:22:49 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[21-Nov-26 20:22:49 - INFO] - SrcMusicKERO.core.userbot - جـار ايـقـاف الـحـسـاب الـمـسـاعد...⁦♡
+[21-Nov-26 20:22:49 - INFO] - ميوزك اليــكس - جارِ ايقاف بوت الميوزك . . .
+[21-Nov-26 20:26:36 - INFO] - ميوزك اليــكس - جـارِ الاتصـال بقاعـدة البيانـات . . .
+[21-Nov-26 20:26:36 - INFO] - ميوزك اليــكس - تم الاتصـال بقاعـدة البيانـات ...✓
+[21-Nov-26 20:26:36 - INFO] - ميوزك اليــكس - تم تحـديث السـورس ...✓
+[21-Nov-26 20:26:36 - INFO] - ميوزك اليــكس - تم تحديث قاعدة بيانات البوت ...✓
+[21-Nov-26 20:26:36 - INFO] - ميوزك الــيكـس - جارِ بدء تشغيل البوت . . .
+[21-Nov-26 20:26:40 - INFO] - ميوزك اليــكس -  تم تحميل قائمة مطورين البوت ...✓
+[21-Nov-26 20:26:46 - INFO] - ميوزك اليــكس -  تم بدء تشغيل البوت دهب  ...✓
+[21-Nov-26 20:26:46 - INFO] - ميوزك اليــكس - تم تحميل الاضافات ...✓
+[21-Nov-26 20:26:46 - INFO] - مـيـوزك اليــكس - جـار تـشـغـيـل الـحـسـاب الـمـسـاعـد
+[21-Nov-26 20:26:47 - INFO] - مـيـوزك اليــكس - تم بدء تشغيل الحساب المساعد <a href=tg://user?id=5731914234>ميوزك دهب</a> ...✓
+[21-Nov-26 20:26:47 - INFO] - ميــوزك اليــكس - جارِ تحميل مكاتب الميوزك . . .
+
+[21-Nov-26 20:26:52 - INFO] - ميوزك اليــكس - TmLotus

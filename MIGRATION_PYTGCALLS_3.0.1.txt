@@ -1,0 +1,16 @@
+PyTgCalls stable migration: 0.9.7 -> 3.0.1
+
+Changes made:
+- requirements.txt now pins py-tgcalls[pyrogram]==3.0.1 and uses pyrogrammod>=2.1.2 instead of pyrogram==2.0.106.
+- Updated core/call.py and plugins/play/azan.py from AudioPiped/AudioVideoPiped + join_group_call/change_stream/leave_group_call to MediaStream + play/leave_call/pause/resume API.
+- Removed the legacy pyromod pin because the source tree does not import it directly; this avoids pulling an older Pyrogram dependency into the PyTgCalls 3.x environment.
+- Added local seek-segment preparation for legacy -ss/-to options.
+- Updated event registration to tolerate decorator-style differences and StreamEnded type.
+- Updated version display to use importlib.metadata.
+
+Validation performed in this environment:
+- Python syntax compilation only.
+- PyTgCalls 3.0.1 could not be installed here because outbound package-index DNS/network access is unavailable.
+- Therefore runtime API compatibility, actual Telegram calls, audio/video playback, seek, and event callback behavior remain UNVERIFIED and must be tested in a separate VPS virtual environment before replacing the live install.
+
+Security/configuration files (.env and cookies.txt) were intentionally omitted from this archive. Restore them locally from your own trusted backup; do not upload/share them.
